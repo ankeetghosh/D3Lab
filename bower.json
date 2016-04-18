@@ -1,0 +1,17 @@
+{
+  "name": "D3Lab",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ankeet Ghosh"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
